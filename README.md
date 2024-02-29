@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Anubhatta/Anubhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h2 align="center" style="width: 100%;padding:10px;" >Hello, Coders!!!</h2>
+<h2 align="center" style="width: 100%;padding:10px;" >Heyy, Coders!!!</h2>
 </div>  
   
    Here I am Anuradha Bhatta, a front-end Developer. I am aspired to study cyber security and Feb Development. Currently I am doing web-development. <br><br>
